@@ -1,0 +1,14 @@
+{
+  "name":"뭐입었지",
+  "short_name":"뭐입었지",
+  "description":"매일의 착장을 날짜별로 기록하는 미니멀 OOTD 캘린더",
+  "start_url":"./",
+  "display":"standalone",
+  "background_color":"#f6f0e8",
+  "theme_color":"#f6f0e8",
+  "lang":"ko-KR",
+  "icons":[
+    {"src":"icons/icon-192.png","sizes":"192x192","type":"image/png"},
+    {"src":"icons/icon-512.png","sizes":"512x512","type":"image/png","purpose":"any maskable"}
+  ]
+}
